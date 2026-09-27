@@ -1,0 +1,11 @@
+html {
+    scroll-behavior: smooth;
+    color-scheme: light;
+}
+
+body {
+    margin: 0;
+    background: #f8f9fa;
+    color: #222222;
+    color-scheme: light;
+}
